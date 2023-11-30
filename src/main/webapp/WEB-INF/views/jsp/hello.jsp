@@ -28,7 +28,7 @@
 		</c:if>
  
 		<c:if test="${empty name}">
-			Welcome Welcome!
+			Welcome Durga!
 		</c:if>
     </p>
     <p>
@@ -41,21 +41,21 @@
  
   <div class="row">
 	<div class="col-md-4">
-		<h2>Heading</h2>
+		<h2>Durga</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Heading</h2>
+		<h2>Madhu</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
 	</div>
 	<div class="col-md-4">
-		<h2>Heading</h2>
+		<h2>hi</h2>
 		<p>ABC</p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
